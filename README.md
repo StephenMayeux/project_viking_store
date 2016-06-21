@@ -1,3 +1,5 @@
+This project was completed by [Stephen Mayeux](https://github.com/StephenMayeux) for Viking Code School.
+
 Project: Viking Store Admin
 ========================
 
